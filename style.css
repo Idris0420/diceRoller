@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(49, 49, 49);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1{
+    margin: 30px;
+}
+
+label{
+    display: inline-block;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+input{
+    margin: 40px;
+    margin-top: 0px;
+    height: 40px;
+    text-align: center;
+}
+
+button{
+    height: 30px;
+    width: 70px;
+}
+
+img{
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+}
